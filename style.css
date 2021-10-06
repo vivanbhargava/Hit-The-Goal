@@ -1,0 +1,28 @@
+.body_background {
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas {
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#hd3 {
+	display: inline-block;
+	color: red;
+	background-color: whitesmoke;
+	width: 100%;
+	font-family: fantasy;
+	font-size: 25px;
+}
+#restart_button {
+	font-size: 20px;
+	width: fit-content;
+	height: fit-content;
+	color:cornsilk;
+	background-color: blue;
+	border-color: blue;
+}
